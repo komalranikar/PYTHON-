@@ -18,3 +18,14 @@ elif percent>40 and percent<50:
 else:
   print("The student's percent is less than 40")
   print("FAILED")
+
+#output
+
+'''
+enter the marks of english45
+enter the marks of maths89
+enter the marks of biology65
+enter the marks of hindi76
+enter the marks of comp. sc.45
+Grade D
+'''
