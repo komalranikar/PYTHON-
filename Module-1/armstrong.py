@@ -1,3 +1,4 @@
+
 num=int(input("enter 3 digit number to be checked:-"))
 sum=0
 n=num
