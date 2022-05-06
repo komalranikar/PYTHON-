@@ -6,6 +6,7 @@ if num>=0:
     i+=1
 print("Factorial of",num,"is",f)
 
+
 #output
 
 '''
