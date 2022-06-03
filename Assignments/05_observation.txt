@@ -1,0 +1,13 @@
+1) LogicLogic for cancat dictionary.:- First logic I thought was to use the update method to join the 3 dictionaries and this logic worked.
+
+2) ADDING NUMBERS FROM LIST OF MAXIMUM LENGTH.
+Logic for this I used:- to first take out the maximum number from the list and to find out its length then creating a condition in which all the elements which are of same length of the maximum element to be appended on the list ans, and the by using sum method to find out the sum of all that elements which are of maximum length.
+The problem I faced was that we can't find ou the length of a number so what I did is that I converted the number in the form of a string and then find out the lengh of that number. And it was successfully executed.
+
+3) LOGIC TO CREATE THE CALCULATOR:-
+Took all the operators in the form of string in a list, then converted the input expression in the form of list so that we can access every element. Then checking if the operator is present in the list so that to perform the desired operation by splitting the two values of the expression by the operator. There is a condition for every operations performed.
+This logic was successfully executed
+
+
+4) LOGIC FOR CITY CAPITAL DICTIONARY PROGRAM.:-The logic I thought was to take a variable and store all the keys from the dictionary by using the function keys(), similarly for the values I created a variable and stored all the values of the dictionary in that by using values() method. and then tried to access them through for loop and making the given desired list type.
+The problem here that I faced was the key values which I had stored in the variable was not in the form of elements so to rectify it I converted the whole values in the form of list so that I can access them individually.
